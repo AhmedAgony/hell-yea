@@ -1,0 +1,12 @@
+{
+  "name": "discord-voice-afk",
+  "version": "1.0.0",
+  "main": "voice.js",
+  "scripts": {
+    "start": "node voice.js"
+  },
+  "dependencies": {
+    "discord.js-selfbot-v13": "latest",
+    "@discordjs/voice": "latest"
+  }
+}
